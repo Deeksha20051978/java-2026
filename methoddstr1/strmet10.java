@@ -23,7 +23,6 @@ public class strmet10 {
         sb.reverse();
         System.out.println("after reverse"+ sb);
         //length()
-        
         System.out.println("Length of sb:"+sb.length());
         //charAt
         if(sb.length()>2)
@@ -34,6 +33,7 @@ public class strmet10 {
         System.out.println("setcharat"+sb);
 
     sc.close();
+
     }
     
     
